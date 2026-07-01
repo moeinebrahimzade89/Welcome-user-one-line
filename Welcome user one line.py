@@ -1,0 +1,1 @@
+print( "Welcom {}".format(input("What is your name:")))
